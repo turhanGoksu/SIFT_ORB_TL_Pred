@@ -47,3 +47,7 @@ The main objective of our project is to predict the value of Turkish Lira bankno
 - ORB algorithm accurately predicted all but one banknote in the test folder.
 - SIFT algorithm extracts more features and makes better predictions but operates slower.
 - ORB algorithm extracts fewer features, makes less accurate predictions, but operates faster.
+
+
+## For Dataset
+https://www.kaggle.com/datasets/turhangksu/turkish-banknote-images-dataset
